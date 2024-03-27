@@ -1,0 +1,46 @@
+* {
+    margin: auto;
+    padding: 0px;
+    font-family: "Edu NSW ACT Foundation", cursive;
+    
+}
+
+.cabeçalho{
+    background-color: rgb(248, 179, 244);
+    color: black;
+    text-align: center;
+    padding: 50px;
+    font-size:x-large
+   
+}
+
+.mensagem{
+    background-color: rgb(243, 254, 250);
+    display: flex;
+    padding: 100px;
+}
+
+    .mensagem-texto{
+        color: rgb(53, 61, 44);
+        text-align: justify;
+        font-size:xx-large;
+}
+
+.mensagem-imagem{
+    width: 20%;
+}
+
+.rodape{
+    background-color: black;
+    color: chartreuse;
+    padding: 50px;
+    display: flex;
+}
+
+.rodapé-link{
+    display:inline-block;
+}
+
+.rodape-imagem{
+    width: 10%;
+}
